@@ -51,7 +51,7 @@ public class vailidation
 			System.out.println("Sum: "+sum3);
 			if(sum3%10==0)
 				{
-				System.out.println("The credit card number is potentially vaild.");
+				System.out.println("The credit card number "+cardNum+" is potentially vaild.");
 				}
 			else
 				{
